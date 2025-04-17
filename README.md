@@ -1,3 +1,3 @@
-# sb1-4ulbmwhk
+# AbhiVision-Galleria
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/abhi-shek-2005/sb1-4ulbmwhk)
